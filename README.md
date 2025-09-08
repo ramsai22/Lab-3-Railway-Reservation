@@ -31,9 +31,7 @@ their tickets.
 
 <img width="994" height="915" alt="image" src="https://github.com/user-attachments/assets/757988a6-f1ec-4ba1-899a-c37ab3dae61a" />
 
-### PACKAGE DIAGRAM:
 
-<img width="1241" height="896" alt="image" src="https://github.com/user-attachments/assets/85c44870-ae47-40ca-bea2-f3d86f5b891b" />
 
 ### COMMUNICATION DIAGRAM:
 
