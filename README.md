@@ -21,7 +21,7 @@ their tickets.
 <img width="1239" height="895" alt="image" src="https://github.com/user-attachments/assets/a4aac5cb-1d1b-4dd4-8ba0-f36b54abe1d5" />
 
 ### CLASS DIAGRAMS:
-<img width="1185" height="943" alt="image" src="https://github.com/user-attachments/assets/c6fe7d74-3256-426f-b697-e9265bb1fb4e" />
+<img width="1243" height="893" alt="image" src="https://github.com/user-attachments/assets/d857dd1d-6d97-4163-af3b-de158df4297d" />
 
 
 ### SEQUENCE DIAGRAMS:
